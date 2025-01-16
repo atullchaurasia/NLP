@@ -13,11 +13,4 @@
 | `W2V_scratch.ipynb`         | Implementation of Word2Vec from scratch.                                   |
 | `word_embedding_techniques.ipynb` | Overview of various word embedding techniques used in NLP.          |
 | `Word2Vec.ipynb`            | Implementation and applications of Word2Vec using Gensim.                  |
-| `requirements.txt`          | Dependencies required to run the project.                                  |
-| `.gitignore`                | Specifies files and folders ignored by Git.                                |
-
-
-
-## **Technologies Used**
-- Libraries: `nltk`, `gensim`, `wordcloud`, `textblob`, `spacy`, `scikit-learn`, `numpy`, `matplotlib`, `tensorflow`.
 
